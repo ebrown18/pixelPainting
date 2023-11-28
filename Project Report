@@ -24,7 +24,31 @@ analyze and deconstruct Ross’s techniques – especially in regard to brushstr
 arrangement. Then, I will implement algorithms and procedural generation methods to simulate natural elements i.e., trees, 
 mountains, bodies of water, etc. that mirror those in the works of Bob Ross until I have a finished piece.
 
-Description of Work:
+Description of Work: I implemented a Python Turtle program to draw a mountain and trees landscape. The program uses a recursive function called mountain() to draw a mountain range. The mountain() function takes two points as input, the start point and the end point of the mountain range. It then randomly generates a third point between the start and end points. The function then recursively calls itself on the two new line segments, one from the start point to the third point and the other from the third point to the end point.
+The program also uses two functions, add_tree_shape() and draw_trees(), to add and draw tree shapes. The add_tree_shape() function registers the tree2.gif image as a shape and sets the turtle shape to the tree shape. The draw_trees() function draws 5 trees at random locations on the screen.
+
+Major "dead end" paths of research and why they failed
+One major "dead end" path of research was trying to use a random walk algorithm to draw the mountain range. This approach failed because it did not produce realistic mountain ranges. The random walk algorithm would often draw mountains that were too jagged or too smooth.
+Another major "dead end" path of research was trying to use a heightmap to generate the mountain range. This approach failed because it was difficult to create a heightmap that produced realistic mountain ranges.
+
+Major challenges encountered
+One major challenge encountered was that all the trees/bushes used originally completely overwhelmed the scene. They were huge by comparison and completely swallowed the landscape. I was eventually forced to find alternate sources that were smaller.
+
+Results
+
+The resulting program is able to draw realistic mountain and trees landscapes. The mountain range looks natural and the trees are placed in a way that looks realistic. The screenshot provided displays the final result - although the mountain itself changes everytime the program is run.
+
+
+
+Analysis of work
+
+Overall, I am happy with the results of this project. The program is able to draw realistic mountain and trees landscapes. However, there are still some areas for improvement. For example, the program could be improved by adding additional features, such as rivers, lakes, and clouds and the addition of texture to the mountain
+
+Additional notes
+
+The program uses the PIL library to load the tree and bush images. The PIL library is a popular Python library for image processing.
+
+The program also uses the math library to calculate the slope of the mountain range. The math library is a standard Python library for mathematical operations.
 
 • Description of work – Describe the work you performed. Include any major
 “dead end” paths of research and why they failed, and any major challenges you
