@@ -40,7 +40,7 @@ The resulting program is able to draw realistic mountain and trees landscapes. T
 
 Analysis of work
 
-Overall, I am happy with the results of this project. The program is able to draw realistic mountain and trees landscapes. However, there are still some areas for improvement. For example, the program could be improved by adding additional features, such as rivers, lakes, and clouds and the addition of texture to the mountain
+Overall, I am happy with the results of this project. The program is able to draw a semi-realistic mountain and trees landscapes. However, there are still some areas for improvement. For example, the program could be improved by the addition of finding new ways texture to the mountain as well as finding a way to incorporate brushstrokes.
 
 Additional notes
 
@@ -48,15 +48,3 @@ The program uses the PIL library to load the tree and bush images. The PIL libra
 
 The program also uses the math library to calculate the slope of the mountain range. The math library is a standard Python library for mathematical operations.
 
-• Description of work – Describe the work you performed. Include any major
-“dead end” paths of research and why they failed, and any major challenges you
-encountered.
-• Results – Describe exactly what was achieved. State exactly what you have
-accomplished, giving concrete information (e.g. by charts, pictures, screenshots,
-videos, etc.) about what you have done, including some screenshots or videos of
-the results in your program. If you have a video of your results, please place the
-video on Youtube and include the video link in the report.
-• Analysis of work – You should analyze the work done from the standpoint of how
-successful you were on the project. You should include the following information:
-How well did you meet the original goals you set out? If you did not meet these
-goals, why not?
