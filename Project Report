@@ -28,9 +28,7 @@ Description of Work: I implemented a Python Turtle program to draw a mountain an
 The program also uses two functions, add_tree_shape() and draw_trees(), to add and draw tree shapes. The add_tree_shape() function registers the tree2.gif image as a shape and sets the turtle shape to the tree shape. The draw_trees() function draws 5 trees at random locations on the screen.
 
 Major "dead end" paths of research and why they failed
-One major "dead end" path of research was trying to use a random walk algorithm to draw the mountain range. This approach failed because it did not produce realistic mountain ranges. The random walk algorithm would often draw mountains that were too jagged or too smooth.
-Another major "dead end" path of research was trying to use a heightmap to generate the mountain range. This approach failed because it was difficult to create a heightmap that produced realistic mountain ranges.
-
+One dead end path was attempted to fill the mountain. Unfortunately, Python turtle only allows for solid colors to fill shapes like that. 
 Major challenges encountered
 One major challenge encountered was that all the trees/bushes used originally completely overwhelmed the scene. They were huge by comparison and completely swallowed the landscape. I was eventually forced to find alternate sources that were smaller.
 
