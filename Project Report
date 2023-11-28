@@ -4,9 +4,28 @@ have accomplished by the end of the semester. Be concise. I do not want to see c
 listings (except maybe pseudo-codes of algorithms to demonstrate a point). Your project
 report should be well organized and contain the following information, though the format
 and organization is totally up to you:
-• Your Team Member’s Name and project Title
-• Problem summary – Briefly summarize the problem you are dealing with and why
-it is important. This is likely to be a modification of your proposal.
+
+
+Name: Elliana Brown
+Project Title: Palette to Pixel
+
+Problem Summary: The project aims to tackle the challenge of generating realistic landscapes using computer graphics by drawing inspiration from 
+the iconic techniques of the great American landscape painter, Bob Ross. This should ultimately result in the advancement of my 
+understanding of algorithms and techniques that can recreate his distinctive brushwork, color harmonies, and composition 
+principles within the digital realm. In doing so, I hope to help advance the field of landscape generation, bridging the gap 
+between traditional artistry and cutting-edge computer graphics, ultimately creating environments that evoke the same sense of 
+tranquility and natural beauty as found in Ross's renowned works. This endeavor is important/interesting for several reasons. For one, it offers an opportunity to delve into the intersection of 
+traditional art and cutting-edge technology, showcasing the potential of computer graphics in artistic endeavors. Secondly, it 
+will provide valuable insight into the art of rendering landscapes – a necessary skill for nearly every computer graphics 
+professional. Finally, this project has the potential to incorporate many skills from the field of computer graphics, especially 
+when considering the more minute details like brushstrokes. Compiling all these detailed elements into one piece is sure to be 
+interesting. The project will involve digitally recreating at least one Bob Ross painting using graphics software/tools. To do this, I will 
+analyze and deconstruct Ross’s techniques – especially in regard to brushstroke patterns, color harmonies, and spatial 
+arrangement. Then, I will implement algorithms and procedural generation methods to simulate natural elements i.e., trees, 
+mountains, bodies of water, etc. that mirror those in the works of Bob Ross until I have a finished piece.
+
+Description of Work:
+
 • Description of work – Describe the work you performed. Include any major
 “dead end” paths of research and why they failed, and any major challenges you
 encountered.
